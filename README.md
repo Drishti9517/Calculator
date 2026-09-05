@@ -24,7 +24,6 @@ The user can perform multiple calculations until they choose to exit.
 - 🛡️ Handles invalid number inputs
 - 🚫 Handles division by zero
 - 🔄 Allows multiple calculations
-- 📋 Uses separate methods for arithmetic operations
 - 💻 Simple console-based interface
 
 ## 🛠️ Technologies Used
